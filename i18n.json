@@ -1,0 +1,244 @@
+{
+    "zh_TW": {
+        "mail.newMail": "§l§c[Mail]§r >> 您收到一封來自「{}」的新郵件，輸入§e/mail§r查看。",
+        "mail.unreadMail": "§l§c[Mail]§r >> 您有 {} 封未讀郵件，輸入§e/mail§r查看。",
+        "mail.autoDelete": "§l§c[Mail]§r >> 已自動清理 {} 封過期郵件。",
+
+        "form.notice": "§l—— 提示 ——",
+        "form.error": "§l—— 錯誤 ——",
+        "form.return": "§l返回",
+        "form.cancel": "§l離開",
+
+        "form.MainMenuTitle": "§l—— 個人郵箱 ——",
+        "form.MainMenuSendMail": "§l撰寫郵件",
+        "form.MainMenuInbox": "§l我的郵件",
+        "form.MainMenuSettings": "§l郵箱設定",
+
+        "form.SendMailTitle": "§l—— 撰寫郵件 ——",
+        "form.MailDescription": "§l填寫郵件信息",
+        "form.MailReceiver": "收件人玩家ID",
+        "form.MailTitle": "郵件標題",
+        "form.MailTitlePlaceholder": "簡要標題",
+        "form.MailContent": "郵件內容",
+        "form.MailContentPlaceholder": "詳細內容...",
+
+        "form.InboxTitle": "§l—— 我的郵件 ——",
+        "form.InboxDescription": "共有 {} 封郵件，其中 {} 封未讀。\n\n點擊查看郵件詳情：",
+        "form.read": "§8[已讀]",
+        "form.new": "§c[新]",
+
+        "form.MailFrom": "§l發件人: §r{}\n",
+        "form.MailDate": "§l時間: §r{}\n",
+        "form.MailID": "§l郵件ID: §r#{}\n",
+        "form.MailContentHeader": "\n══════ 郵件內容 ══════\n\n",
+
+        "form.MailDetailReply": "§l回覆郵件",
+        "form.MailDetailDelete": "§l刪除郵件",
+
+        "form.MailReply": "§l—— 回覆郵件 ——",
+        "form.MailReplyTo": "§l回覆給: §r${}\n§l原標題: §r${}",
+        "form.MailReplyTitle": "回覆標題",
+        "form.MailReplyContent": "回覆內容",
+        "form.MailReplyContentPlaceholder": "輸入回覆內容...",
+
+        "form.SettingsTitle": "§l—— 郵箱設定 ——",
+        "form.SettingsNotifications": "§l新郵件通知",
+        "form.AutoDelete": "§l自動刪除陳舊郵件", 
+
+        "error.EmptyReceiver": "§c收件人不能為空。",
+        "error.EmptyTitle": "§c郵件標題不能為空。",
+        "error.EmptyContent": "§c郵件內容不能為空。",
+        "error.PlayerNotFound": "§c找不到玩家：{}。",
+        "error.SelfSend": "§c你不能給自己發送郵件。",
+        "error.MailSendFailed": "§c發送失敗: {}。",
+        "error.Deletefailed": "§c刪除郵件失敗。",
+        "error.EmptyReply": "§c回覆內容不能為空。",
+        "error.ReplySent": "回覆已發送給 {} (郵件ID: {})。",
+
+        "success.MailSent": "郵件已成功發送給 {} (郵件ID: {})。",
+        "success.MailDeleted": "郵件已刪除。",
+        "success.SettingsSaved": "郵箱設定已保存。"
+
+    },
+    "zh_CN": {
+        "mail.newMail": "§l§c[Mail]§r >> 您收到一封来自「{}」的新邮件，输入§e/mail§r查看。",
+        "mail.unreadMail": "§l§c[Mail]§r >> 您有 {} 封未读邮件，输入§e/mail§r查看。",
+        "mail.autoDelete": "§l§c[Mail]§r >> 已自动清理 {} 封过期邮件。",
+
+        "form.notice": "§l—— 提示 ——",
+        "form.error": "§l—— 错误 ——",
+        "form.return": "§l返回",
+        "form.cancel": "§l离开",
+
+        "form.MainMenuTitle": "§l—— 个人邮箱 ——",
+        "form.MainMenuSendMail": "§l撰写邮件",
+        "form.MainMenuInbox": "§l我的邮件",
+        "form.MainMenuSettings": "§l邮箱设置",
+
+        "form.SendMailTitle": "§l—— 撰写邮件 ——",
+        "form.MailDescription": "§l填写邮件信息",
+        "form.MailReceiver": "收件人玩家ID",
+        "form.MailTitle": "邮件标题",
+        "form.MailTitlePlaceholder": "简要标题",
+        "form.MailContent": "邮件内容",
+        "form.MailContentPlaceholder": "详细内容...",
+
+        "form.InboxTitle": "§l—— 我的邮件 ——",
+        "form.InboxDescription": "共有 {} 封邮件，其中 {} 封未读。\n\n点击查看邮件详情：",
+        "form.read": "§8[已读]",
+        "form.new": "§c[新]",
+
+        "form.MailFrom": "§l发件人: §r{}\n",
+        "form.MailDate": "§l时间: §r{}\n",
+        "form.MailID": "§l邮件ID: §r#{}\n",
+        "form.MailContentHeader": "\n══════ 邮件内容 ══════\n\n",
+
+        "form.MailDetailReply": "§l回覆邮件",
+        "form.MailDetailDelete": "§l删除邮件",
+
+        "form.MailReply": "§l—— 回覆邮件 ——",
+        "form.MailReplyTo": "§l回覆给: §r${}\n§l原标题: §r${}",
+        "form.MailReplyTitle": "回覆标题",
+        "form.MailReplyContent": "回覆内容",
+        "form.MailReplyContentPlaceholder": "输入回覆内容...",
+
+        "form.SettingsTitle": "§l—— 邮箱设置 ——",
+        "form.SettingsNotifications": "§l新邮件通知",
+        "form.AutoDelete": "§l自动删除陈旧邮件", 
+
+        "error.EmptyReceiver": "§c收件人不能为空。",
+        "error.EmptyTitle": "§c邮件标题不能为空。",
+        "error.EmptyContent": "§c邮件内容不能为空。",
+        "error.PlayerNotFound": "§c找不到玩家：{}。",
+        "error.SelfSend": "§c你不能给自己发送邮件。",
+        "error.MailSendFailed": "§c发送失败: {}。",
+        "error.Deletefailed": "§c删除邮件失败。",
+        "error.EmptyReply": "§c回覆内容不能为空。",
+        "error.ReplySent": "回覆已发送给 {} (邮件ID: {})。",
+
+        "success.MailSent": "邮件已成功发送给 {} (邮件ID: {})。",
+        "success.MailDeleted": "邮件已删除。",
+        "success.SettingsSaved": "邮箱设置已保存。"
+
+    },
+    "en_US": {
+        "mail.newMail": "§l§c[Mail]§r >> You have received a new mail from \"{}\". Type §e/mail§r to view.",
+        "mail.unreadMail": "§l§c[Mail]§r >> You have {} unread mails. Type §e/mail§r to view.",
+        "mail.autoDelete": "§l§c[Mail]§r >> Automatically cleaned up {} expired mails.",
+        
+        "form.notice": "§l—— Notice ——",
+        "form.error": "§l—— Error ——",
+        "form.return": "§lReturn",
+        "form.cancel": "§lExit",
+        
+        "form.MainMenuTitle": "§l—— Personal Mailbox ——",
+        "form.MainMenuSendMail": "§lCompose Mail",
+        "form.MainMenuInbox": "§lMy Mails",
+        "form.MainMenuSettings": "§lMailbox Settings",
+        
+        "form.SendMailTitle": "§l—— Compose Mail ——",
+        "form.MailDescription": "§lFill in mail information",
+        "form.MailReceiver": "Recipient Player ID",
+        "form.MailTitle": "Mail Title",
+        "form.MailTitlePlaceholder": "Brief title",
+        "form.MailContent": "Mail Content",
+        "form.MailContentPlaceholder": "Detailed content...",
+        
+        "form.InboxTitle": "§l—— My Mails ——",
+        "form.InboxDescription": "Total {} mails, {} unread.\n\nClick to view mail details:",
+        "form.read": "§8[Read]",
+        "form.new": "§c[New]",
+        
+        "form.MailFrom": "§lFrom: §r{}\n",
+        "form.MailDate": "§lDate: §r{}\n",
+        "form.MailID": "§lMail ID: §r#{}\n",
+        "form.MailContentHeader": "\n══════ Mail Content ══════\n\n",
+        
+        "form.MailDetailReply": "§lReply Mail",
+        "form.MailDetailDelete": "§lDelete Mail",
+        
+        "form.MailReply": "§l—— Reply Mail ——",
+        "form.MailReplyTo": "§lReply to: §r${}\n§lOriginal Title: §r${}",
+        "form.MailReplyTitle": "Reply Title",
+        "form.MailReplyContent": "Reply Content",
+        "form.MailReplyContentPlaceholder": "Enter reply content...",
+        
+        "form.SettingsTitle": "§l—— Mailbox Settings ——",
+        "form.SettingsNotifications": "§lNew Mail Notifications",
+        "form.AutoDelete": "§lAuto-Delete Old Mails",
+        
+        "error.EmptyReceiver": "§cRecipient cannot be empty.",
+        "error.EmptyTitle": "§cMail title cannot be empty.",
+        "error.EmptyContent": "§cMail content cannot be empty.",
+        "error.PlayerNotFound": "§cPlayer not found: {}.",
+        "error.SelfSend": "§cYou cannot send mail to yourself.",
+        "error.MailSendFailed": "§cSend failed: {}.",
+        "error.Deletefailed": "§cFailed to delete mail.",
+        "error.EmptyReply": "§cReply content cannot be empty.",
+        "error.ReplySent": "Reply sent to {} (Mail ID: {}).",
+        
+        "success.MailSent": "Mail successfully sent to {} (Mail ID: {}).",
+        "success.MailDeleted": "Mail deleted.",
+        "success.SettingsSaved": "Mailbox settings saved."
+    },
+    "ja": {
+        "mail.newMail": "§l§c[メール]§r >> 「{}」から新しいメールが届きました。§e/mail§rと入力して表示します。",
+        "mail.unreadMail": "§l§c[メール]§r >> 未読メールが {} 件あります。§e/mail§rと入力して表示します。",
+        "mail.autoDelete": "§l§c[メール]§r >> 期限切れのメール {} 件を自動的に削除しました。",
+        
+        "form.notice": "§l—— 通知 ——",
+        "form.error": "§l—— エラー ——",
+        "form.return": "§l戻る",
+        "form.cancel": "§l終了",
+        
+        "form.MainMenuTitle": "§l—— 個人メールボックス ——",
+        "form.MainMenuSendMail": "§lメール作成",
+        "form.MainMenuInbox": "§lメール一覧",
+        "form.MainMenuSettings": "§lメール設定",
+        
+        "form.SendMailTitle": "§l—— メール作成 ——",
+        "form.MailDescription": "§lメール情報を入力",
+        "form.MailReceiver": "受信者プレイヤーID",
+        "form.MailTitle": "メールタイトル",
+        "form.MailTitlePlaceholder": "簡潔なタイトル",
+        "form.MailContent": "メール内容",
+        "form.MailContentPlaceholder": "詳細内容...",
+        
+        "form.InboxTitle": "§l—— メール一覧 ——",
+        "form.InboxDescription": "合計 {} 件、未読 {} 件。\n\nクリックで詳細表示:",
+        "form.read": "§8[既読]",
+        "form.new": "§c[新着]",
+        
+        "form.MailFrom": "§l差出人: §r{}\n",
+        "form.MailDate": "§l日時: §r{}\n",
+        "form.MailID": "§lメールID: §r#{}\n",
+        "form.MailContentHeader": "\n══════ メール内容 ══════\n\n",
+        
+        "form.MailDetailReply": "§l返信する",
+        "form.MailDetailDelete": "§l削除する",
+        
+        "form.MailReply": "§l—— メール返信 ——",
+        "form.MailReplyTo": "§l返信先: §r${}\n§l元タイトル: §r${}",
+        "form.MailReplyTitle": "返信タイトル",
+        "form.MailReplyContent": "返信内容",
+        "form.MailReplyContentPlaceholder": "返信内容を入力...",
+        
+        "form.SettingsTitle": "§l—— メール設定 ——",
+        "form.SettingsNotifications": "§l新着メール通知",
+        "form.AutoDelete": "§l古いメール自動削除",
+        
+        "error.EmptyReceiver": "§c受信者を入力してください。",
+        "error.EmptyTitle": "§cメールタイトルを入力してください。",
+        "error.EmptyContent": "§cメール内容を入力してください。",
+        "error.PlayerNotFound": "§cプレイヤーが見つかりません: {}。",
+        "error.SelfSend": "§c自分自身にメールを送信できません。",
+        "error.MailSendFailed": "§c送信失敗: {}。",
+        "error.Deletefailed": "§cメール削除に失敗しました。",
+        "error.EmptyReply": "§c返信内容を入力してください。",
+        "error.ReplySent": "{} に返信を送信しました (メールID: {})。",
+        
+        "success.MailSent": "{} にメールを送信しました (メールID: {})。",
+        "success.MailDeleted": "メールを削除しました。",
+        "success.SettingsSaved": "メール設定を保存しました。"
+    }
+}
