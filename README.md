@@ -1,2 +1,2 @@
-# BagManager
-A bag manage plugin for BDS.
+# Mail
+A email plugin for BDS.
