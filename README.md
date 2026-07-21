@@ -1,2 +1,2 @@
 # Mail
-A email plugin for BDS.
+An email plugin for BDS.
